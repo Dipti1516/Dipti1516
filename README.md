@@ -10,4 +10,4 @@
 
 ## 🍛 CodeChef Stats
 
-<img src="https://github-readme-codechef-stats.vercel.app/api?username=chaturvedi_16 />
+[My CodeChef Profile](https://www.codechef.com/users/chaturvedi_16)
