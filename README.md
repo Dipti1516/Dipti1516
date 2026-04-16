@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **Dipti1516/Dipti1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
