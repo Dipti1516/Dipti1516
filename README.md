@@ -11,3 +11,9 @@
 ## 🍛 CodeChef Stats
 
 [My CodeChef Profile](https://www.codechef.com/users/chaturvedi_16)
+
+
+## 🚀 Competitive Programming
+
+- 💻 LeetCode: https://leetcode.com/Dipti_16
+- 🍛 CodeChef: https://www.codechef.com/users/chaturvedi_16
