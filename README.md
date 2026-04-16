@@ -7,3 +7,5 @@
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipti1516&show_icons=true)
+
+https://www.codechef.com/users/chaturvedi_16
