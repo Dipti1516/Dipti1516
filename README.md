@@ -15,5 +15,12 @@
 
 ## 🚀 Competitive Programming
 
-- 💻 LeetCode: https://leetcode.com/Dipti_16
-- 🍛 CodeChef: https://www.codechef.com/users/chaturvedi_16
+<p align="center">
+  <a href="https://leetcode.com/Dipti_16">
+    <img src="https://img.shields.io/badge/LeetCode-Dipti_16-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/chaturvedi_16">
+    <img src="https://img.shields.io/badge/CodeChef-chaturvedi_16-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
